@@ -16,7 +16,7 @@ In this work, we introduce a network architecture that takes long-term content i
 
 
 ### TODO
-1. Arxiv
+1. Arxiv -Done
 2. Code and Models
 3. Data
 4. Tables and demo
