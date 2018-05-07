@@ -10,7 +10,7 @@
 ### Introduction
 This repository will contains all the required models and scripts for the paper [ECO: Efficient Convolutional Network for Online Video Understanding](https://arxiv.org/pdf/1804.09066.pdf).
 
-<object data="https://github.com/mzolfaghari/ECO-efficient-video-understanding/tree/master/doc_files/Model3_ver6.pdf" type="application/pdf" width="700px" height="700px">
+<object data="https://github.com/mzolfaghari/ECO-efficient-video-understanding/tree/master/doc_files/Model3_ver6.pdf" type="application/pdf" width="400px" height="400px">
     <embed src="https://github.com/mzolfaghari/ECO-efficient-video-understanding/tree/master/doc_files/Model3_ver6.pdf">
         This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/mzolfaghari/ECO-efficient-video-understanding/tree/master/doc_files/Model3_ver6.pdf">Download PDF</a>.</p>
     </embed>
