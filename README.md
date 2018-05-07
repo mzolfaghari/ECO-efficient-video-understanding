@@ -16,12 +16,15 @@ This repository will contains all the required models and scripts for the paper 
 In this work, we introduce a network architecture that takes long-term content into account and enables fast per-video processing at the same time. The architecture is based on merging long-term content already in the network rather than in a post-hoc fusion. Together with a sampling strategy, which exploits that neighboring frames are largely redundant, this yields high-quality action classification and video captioning at up to 230 videos per second, where each video can consist of a few hundred frames. The approach achieves competitive performance across all datasets while being 10x to 80x faster than state-of-the-art methods.
 
 
-### Results
+### Results 
 Action Recognition on UCF101 and HMDB51           |  Video Captioning on MSVD dataset
 :-------------------------:|:-------------------------:
 ![](doc_files/s_fig1.png)  |  ![](doc_files/s_fig2.png)
 
-
+### Online Video Understanding Results 
+Model trained on UCF101 dataset             |  Model trained on Something-Something dataset
+:-------------------------:|:-------------------------:
+![](doc_files/uc_gif1.gif)  |  ![](doc_files/sm_gif1.gif)
 
 ### TODO
 1. Code and Models
