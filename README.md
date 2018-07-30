@@ -27,6 +27,25 @@ Model trained on UCF101 dataset             |  Model trained on Something-Someth
 :-------------------------:|:-------------------------:
 ![](doc_files/uc_gif1.gif)  |  ![](doc_files/sm_gif1.gif)
 
+### Requirements
+1. Requirements for `Python`
+2. Requirements for `Caffe` (see: [Caffe installation instructions](http://caffe.berkeleyvision.org/installation.html))
+
+### Installation
+Build Caffe
+
+    ```Shell
+    cd $caffe_FAST_ROOT/
+    # Now follow the Caffe installation instructions here:
+    # http://caffe.berkeleyvision.org/installation.html
+    make all -j8
+    ```
+
+### Usage
+
+*After successfully completing the [installation](#installation)*, you are ready to run all the following experiments.
+
+
 
 ### Training
 1. Download the initialization and trained models:
@@ -35,7 +54,7 @@ Model trained on UCF101 dataset             |  Model trained on Something-Someth
         sh download_models.sh
 	```
  
-2- Train ECO Lite on kinetics dataset:
+2. Train ECO Lite on kinetics dataset:
  
 	
         sh models_ECO_Lite/kinetics/run.sh
