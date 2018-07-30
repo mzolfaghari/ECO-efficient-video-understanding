@@ -4,6 +4,7 @@
 
 
 ### Update
+- **2018.7.30**: Adding codes and models
 - **2018.4.17**: Repository for ECO.
 
 
@@ -26,11 +27,26 @@ Model trained on UCF101 dataset             |  Model trained on Something-Someth
 :-------------------------:|:-------------------------:
 ![](doc_files/uc_gif1.gif)  |  ![](doc_files/sm_gif1.gif)
 
+
+### Training
+1. Download the initialization and trained models:
+
+	```Shell
+        sh download_models.sh
+	```
+ 
+ 2- Train ECO Lite on kinetics dataset:
+ 
+ 	```Shell
+        sh models_ECO_Lite/kinetics/run.sh
+	```
+ 
+ 
+ 
 ### TODO
-1. Code and Models
-2. Data
-3. Tables and Results
-4. Demo
+1. Data
+2. Tables and Results
+3. Demo
 
 
 ### Contact
