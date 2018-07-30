@@ -1,0 +1,20 @@
+
+python gd_download.py 1-JVMLyKYEfjqPWPDqc4iCGupa2I_ZMLe 112_c3d_resnet_18_kinetics.caffemodel
+
+python gd_download.py 1MqRQWsqgk5Q6XmoExXwfH87Db8Tpmubs bn_inception_kinetics_rgb_pretrained.caffemodel
+
+python gd_download.py 1eMtm7bwNQIbjPlKf6V-a23BmgARl_8XC ECO_full_HMDB51.caffemodel
+
+python gd_download.py 1uj38jjdjmfKfIvlfuVSx_4720--U5GLL ECO_full_kinetics.caffemodel
+
+python gd_download.py 1zN3IRygn1sgCKVoTij_9JTbMvJz-PXbW ECO_full_somethingSomething.caffemodel
+
+python gd_download.py 1QffeXdoZYhPEEGXv4FT6Aicu0Hmi2o76 ECO_full_ucf101.caffemodel
+
+python gd_download.py 1cmRvhpMp_Rr2xfUfc9nZ7DORdjfTl6Jw ECO_Lite_HMDB51.caffemodel
+
+python gd_download.py 1Zbu7m6Gu5NmCQlYdrP6iHsFTvIspUgrl ECO_Lite_kinetics.caffemodel
+
+python gd_download.py 1_3M9gEWautVRncnYzDwOsU5GynU41P2d ECO_Lite_SomethingSomething.caffemodel
+
+python gd_download.py 1FMFjtzt_sBWRUyBV86d1cuwHAlnw7HpB ECO_Lite_UCF101.caffemodel
