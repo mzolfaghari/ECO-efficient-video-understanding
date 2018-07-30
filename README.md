@@ -35,9 +35,9 @@ Model trained on UCF101 dataset             |  Model trained on Something-Someth
         sh download_models.sh
 	```
  
- 2- Train ECO Lite on kinetics dataset:
+2- Train ECO Lite on kinetics dataset:
  
- 	```Shell
+	```Shell
         sh models_ECO_Lite/kinetics/run.sh
 	```
  
