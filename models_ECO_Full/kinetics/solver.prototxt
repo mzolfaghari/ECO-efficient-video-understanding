@@ -1,0 +1,33 @@
+net: "ECO_full.prototxt"
+
+# testing parameter
+test_iter: 3000
+test_interval: 1000
+test_initialization: false
+
+# output
+display: 20
+average_loss: 20
+snapshot: 1000
+snapshot_prefix: "snapshots/ECO_full_kinetics"
+debug_info: false
+
+# learning rate
+base_lr: 0.001
+lr_policy: "step"
+gamma: 0.1
+stepsize: 12000
+stepsize: 24000
+max_iter: 38000
+iter_size: 4
+
+# parameter of SGD
+momentum: 0.9
+weight_decay: 0.0005
+clip_gradients: 50
+
+# GPU setting
+solver_mode: GPU
+solver_type: NESTEROV 
+richness: 100
+
