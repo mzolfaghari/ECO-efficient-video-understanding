@@ -1,4 +1,4 @@
-net: "bn_inception_rgb_res3D.prototxt"
+net: "ECO_Lite.prototxt"
 
 # testing parameter
 test_iter: 1530
