@@ -1,4 +1,4 @@
-##STEPS TO RUN ONLINE VIDEO UNDERSTANDING MODEL##
+## STEPS TO RUN ONLINE VIDEO UNDERSTANDING MODEL
 
 1. If you use conda environment, easiest way is to use caffe.yml file
    conda env create -f caffe.yml
