@@ -4,6 +4,7 @@
 
 
 ### Update
+- **2018.8.01**: Scripts for online recognition and video captioning
 - **2018.7.30**: Adding codes and models
 - **2018.4.17**: Repository for ECO.
 
