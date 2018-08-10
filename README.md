@@ -1,5 +1,5 @@
 
-#### Code and models of [paper](https://arxiv.org/pdf/1804.09066.pdf). " ECO: Efficient Convolutional Network for Online Video Understanding" 
+#### Code and models of [paper](https://arxiv.org/pdf/1804.09066.pdf). " ECO: Efficient Convolutional Network for Online Video Understanding, European Conference on Computer Vision (ECCV), 2018." 
  By Mohammadreza Zolfaghari, Kamaljeet Singh, Thomas Brox
 
 
@@ -34,20 +34,27 @@ Model trained on UCF101 dataset             |  Model trained on Something-Someth
 
 ### Installation
 Build Caffe
+We used the following configurations with cmake:
+- Cuda 8
+- Python 3
+- Google protobuf 3.1
+- Opencv 3.2
 
     ```Shell
-    cd $caffe_FAST_ROOT/
-    # Now follow the Caffe installation instructions here:
-    # http://caffe.berkeleyvision.org/installation.html
-    make all -j8
+    cd $caffe_3d/
+    mkdir build && cd build
+    cmake .. 
+    make && make install
     ```
 
 ### Usage
 
 *After successfully completing the [installation](#installation)*, you are ready to run all the following experiments.
 
-
-
+### Data list format
+	```Shell
+        /path_to_video_folder number_of_frames video_label
+	```
 ### Training
 1. Download the initialization and trained models:
 
@@ -69,6 +76,19 @@ Build Caffe
 3. Demo
 4. PyTorch version of ECO
 
+
+### Citation
+If you use this code or ideas from the paper for your research, please cite our paper:
+```
+@inproceedings{ECO_eccv18,
+author={Mohammadreza Zolfaghari and
+               Kamaljeet Singh and
+               Thomas Brox},
+title={{ECO:} Efficient Convolutional Network for Online Video Understanding},	       
+booktitle={ECCV},
+year={2018}
+}
+```
 
 ### Contact
 
