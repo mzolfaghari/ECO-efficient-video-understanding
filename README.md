@@ -55,6 +55,8 @@ We used the following configurations with cmake:
 	```
         /path_to_video_folder number_of_frames video_label
 	```
+Our [script](https://github.com/mzolfaghari/ECO-efficient-video-understanding/blob/master/scripts/create_lists/create_list_kinetics.m) for creating kinetics data list.
+
 ### Training
 1. Download the initialization and trained models:
 
