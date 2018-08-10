@@ -66,12 +66,12 @@ Our [script](https://github.com/mzolfaghari/ECO-efficient-video-understanding/bl
  This will download the following models:
  - Initialization models for 2D and 3D networks (bn_inception_kinetics and 112_c3d_resnet_18_kinetics)
  - Pre-trained models of ECO Lite and ECO Full on the following datasets:
- 	. Kinetics (400)
-	. UCF101
-	. HMDB51
-	. SomethingSomething (v1)
+   - Kinetics (400)
+   - UCF101
+   - HMDB51
+   - SomethingSomething (v1)
 
-*We will provide the results and pre-trained models on Kinetics 600 and SomethingSomething V2 soon.
+   *We will provide the results and pre-trained models on Kinetics 600 and SomethingSomething V2 soon.
  
 2. Train ECO Lite on kinetics dataset:
  
