@@ -52,7 +52,7 @@ We used the following configurations with cmake:
 *After successfully completing the [installation](#installation)*, you are ready to run all the following experiments.
 
 ### Data list format
-	```Shell
+	```
         /path_to_video_folder number_of_frames video_label
 	```
 ### Training
