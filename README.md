@@ -33,7 +33,7 @@ Model trained on UCF101 dataset             |  Model trained on Something-Someth
 2. Requirements for `Caffe` (see: [Caffe installation instructions](http://caffe.berkeleyvision.org/installation.html))
 
 ### Installation
-Build Caffe
+##### Build Caffe
 We used the following configurations with cmake:
 - Cuda 8
 - Python 3
