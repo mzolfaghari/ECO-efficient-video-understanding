@@ -2,8 +2,12 @@
 #### Code and models of [paper](https://arxiv.org/pdf/1804.09066.pdf). " ECO: Efficient Convolutional Network for Online Video Understanding, European Conference on Computer Vision (ECCV), 2018." 
  By Mohammadreza Zolfaghari, Kamaljeet Singh, Thomas Brox
 
+### NEW
+:snake: [PyTorch](https://github.com/mzolfaghari/ECO-pytorch) implementation for ECO paper now is available [here](https://github.com/mzolfaghari/ECO-pytorch).
+
 
 ### Update
+- **2018.9.06**: Providing PyTorch [implementation](https://github.com/mzolfaghari/ECO-pytorch)
 - **2018.8.01**: Scripts for online recognition and video captioning
 - **2018.7.30**: Adding codes and models
 - **2018.4.17**: Repository for ECO.
@@ -85,7 +89,6 @@ Our [script](https://github.com/mzolfaghari/ECO-efficient-video-understanding/bl
 1. Data
 2. Tables and Results
 3. Demo
-4. PyTorch version of ECO
 
 
 ### Citation
