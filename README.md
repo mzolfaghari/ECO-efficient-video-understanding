@@ -3,7 +3,7 @@
  By Mohammadreza Zolfaghari, Kamaljeet Singh, Thomas Brox
 
 ### NEW
-:snake: [PyTorch](https://github.com/mzolfaghari/ECO-pytorch) implementation for ECO paper now is available [here](https://github.com/mzolfaghari/ECO-pytorch).
+:snake: [PyTorch](https://github.com/mzolfaghari/ECO-pytorch) implementation for ECO paper now is available [here](https://github.com/mzolfaghari/ECO-pytorch). Many thanks to @zhang-can.
 
 
 ### Update
