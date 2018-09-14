@@ -1,5 +1,5 @@
 
-function ConvertVidToImg_newFPS_val
+function extract_frames_main
 % Extract frames using ffmpeg
 %Mohammadreza Zolfaghari, University of Freiburg, September 2018
 %
