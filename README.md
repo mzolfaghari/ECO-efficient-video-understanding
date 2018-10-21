@@ -101,8 +101,8 @@ Here, we explain how to modify ".prototxt" to train network with 8 segments.
 3. Demo
 
 
-### Citation
-If you use this code or ideas from the paper for your research, please cite our paper:
+### License and Citation
+All code is provided for research purposes only and without any warranty. Any commercial use requires our consent. If you use this code or ideas from the paper for your research, please cite our paper:
 ```
 @inproceedings{ECO_eccv18,
 author={Mohammadreza Zolfaghari and
