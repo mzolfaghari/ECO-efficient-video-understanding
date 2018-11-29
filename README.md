@@ -83,8 +83,8 @@ Our [script](https://github.com/mzolfaghari/ECO-efficient-video-understanding/bl
         sh models_ECO_Lite/kinetics/run.sh
 	
 ### Different number of segments
-Here, we explain how to modify ".prototxt" to train network with 8 segments. 
-1. In the "VideoData" layer change we set ```num_segments: 8``` 
+Here, we explain how to modify ".prototxt" to train the network with 8 segments. 
+1. In the "VideoData" layer set ```num_segments: 8``` 
 2. For transform_param of "VideoData" layer copy the following mean values 8 times:
     ```
     mean_value: [104]
